@@ -9,6 +9,7 @@ function addingEventListener() {
 /**
 1.1 
     Node that will be doing the listening
+    Must be declared outside of a function?? 
 1.2  
     Invocating addEventListener on the note that will be doing the listening
     First argument is the event name to listen for. 
